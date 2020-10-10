@@ -1,1 +1,1 @@
-# CT526_Pythom
+# CT526_Python
